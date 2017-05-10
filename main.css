@@ -1,0 +1,21 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+#info {
+    text-transform: uppercase;
+}
+.wrapper {
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+.item {
+    border: 1px solid black;
+    display: inline-block;
+    font-size: 140px;
+    text-align: center;
+    vertical-align: bottom;
+    height: 157px;
+    width: 157px;
+}
